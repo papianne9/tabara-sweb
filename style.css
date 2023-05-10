@@ -1,0 +1,124 @@
+.body{
+    margin: 10px;
+}
+
+.port{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #be004b;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    display: inline;
+    margin-inline: 30px;
+    
+}
+
+li a{
+    color: black;
+}
+
+li a:hover{
+    color: blue;
+}
+
+.over{
+    margin: 10px;
+}
+
+.over{
+    text-align: end;
+    background-color: #ccccd3;
+    border-radius: 10px;
+}
+
+.over .deve img{
+    border-radius: 10px;
+
+}
+
+.edit{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+} 
+
+.size img{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.size{
+    background-color: #ccccd3;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.fusion{
+    background-color: #D9A2AF;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.access{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 30px;
+}
+
+.image{
+    text-align: center;
+}
+
+.logo img{
+    border-radius: 10px;
+    text-align: center;
+}
+
+.solide{
+    text-align: center;
+}
+
+.slide{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.centre img{
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.trade{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.inner .rooler{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.code{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #D9A2AF;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.code .ordi img{
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.mixte{
+    margin: 50px;
+    background-color: #D9A2AF;
+    border-radius: 10px;
+}
+
+
